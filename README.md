@@ -33,7 +33,8 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 ## Circuit Diagram
 
-![Screenshot 2025-03-24 122239](https://github.com/user-attachments/assets/c22930fc-f396-4787-807d-51088ad7959e)
+<img width="579" height="442" alt="WhatsApp Image 2026-08-08 at 10 31 23 AM" src="https://github.com/user-attachments/assets/79739195-97b3-42e7-bd29-914e5ede6748" />
+
 
 
 
@@ -46,10 +47,12 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 #### 1. Schematic of 6T SRAM Cell:
 
-   ![image](https://github.com/user-attachments/assets/2273733f-5e94-415a-9971-793c64816a0d)
+   <img width="940" height="466" alt="WhatsApp Image 2026-08-08 at 10 31 23 AM (1)" src="https://github.com/user-attachments/assets/280ceda0-487a-4a64-82c9-6fee8ac7c53d" />
 
 
-   ![image](https://github.com/user-attachments/assets/c28aea2b-9e73-48e6-abdb-11c430321b86)
+
+   <img width="940" height="296" alt="WhatsApp Image 2026-08-08 at 10 31 25 AM" src="https://github.com/user-attachments/assets/cab12f60-7c31-48a1-bf8b-6f2420da4b4b" />
+
 
 
 ## Output
@@ -57,7 +60,8 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
    ![Screenshot 2025-03-24 121615](https://github.com/user-attachments/assets/2805525e-1f0d-4ef8-b131-79a3153b7127)
 
-   ![Screenshot 2025-03-24 124545](https://github.com/user-attachments/assets/baf058fc-e967-43bc-ba49-ce9b5e5a2e7d)
+   <img width="940" height="386" alt="WhatsApp Image 2026-08-08 at 10 31 24 AM" src="https://github.com/user-attachments/assets/4ab58fd0-77f3-45ee-99d4-c5a4350026d2" />
+
 
 
 ## Results:
